@@ -1,3 +1,8 @@
+# DEPRECATED
+
+The code in this repo relies on OpsGenie's v1 API, which is no longer supported. It was being used in the deployment of Portkey but it's not clear it was required.
+
+
 Silencio
 ========
 Enables and disables selected OpsGenie policies.
